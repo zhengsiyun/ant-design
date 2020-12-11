@@ -5,7 +5,7 @@ type: 反馈
 title: Popconfirm
 cover: https://gw.alipayobjects.com/zos/alicdn/fjMCD9xRq/Popconfirm.svg
 ---
-
+大多数都是
 点击元素，弹出气泡式的确认框。
 
 ## 何时使用
